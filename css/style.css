@@ -100,7 +100,7 @@
 
 
 .clementine-advice {
-    background-color: coral;   
+    background-color: coral;
     font-family: sans-serif;
     margin: 0 auto;
     padding: 100px:
@@ -190,7 +190,7 @@
 	font-size: small;
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight: 300;
-} 
+}
 
 
 /** Ozge's Styles **/
@@ -368,7 +368,7 @@ footer {
 	color: #695d94;
 	font-weight: bold;
 }
-  
+
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -4363,7 +4363,7 @@ body.parismarron-advice{
 }
 
 .lisa-advice h4 {
-		color:  #009933; 
+		color:  #009933;
 }
 
 .lisa-advice p {
@@ -4374,11 +4374,11 @@ body.parismarron-advice{
 	background-color:#3366cc;
 	height: 120px;
 	padding-bottom: 20px;
-	color: #e6f7ff;	
+	color: #e6f7ff;
 }
 
 .lisa-advice a {
-	color: #e6f7ff;	
+	color: #e6f7ff;
 	padding: 5px;
 	text-align: center;
 }
@@ -4391,7 +4391,7 @@ body.parismarron-advice{
 
 .lisa-advice footer p {
 	text-align: center;
-	color: 	#ff4d4d;	
+	color: 	#ff4d4d;
 	padding-bottom: 5px;
 }
 /* End Lisa's Styles */
@@ -4788,7 +4788,7 @@ Chrizzit's Advice Styles
     background-color: #00789D;
     color: white;
     padding: 10px 21px;
-    text-align: center; 
+    text-align: center;
     text-decoration: none;
     display: inline-block;
 }
@@ -4829,33 +4829,33 @@ Chrizzit's Advice Styles
 
 .erocks-advice h4 {
 	padding-top: 10px;
-	
-} 
+
+}
 
 .erocks-advice p {
 	color: red;
 	font-size: 15px;
 	padding: 10px;
 }
-	
+
 .erocks-advice .advice {
 	background-color: white;
 	border-radius: 10px;
 	margin: 20px;
 
-}	
-	
+}
+
 /* End Erika's Styles */
 
 /* Cara's Styles */
 
 
 .caraslavens-advice body {
-	
+
 }
 .caraslavens-advice body, html{
 	background: #ccffe6;
-	
+
 }
 
 .caraslavens-advice h1 {
@@ -4938,7 +4938,7 @@ Chrizzit's Advice Styles
 }
 
 .janessa-advice h1 {
-	
+
 	color: orange;
 }
 
@@ -5030,7 +5030,7 @@ font-family: Lobster, cursive;
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .omari-advice a {
     text-decoration: none;
@@ -5053,7 +5053,7 @@ font-family: Lobster, cursive;
     text-align: left;
 }
 .omari-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -5081,4 +5081,18 @@ Jess Wentworth Styles
   font-size: 45px;
   font-weight: bold;
 	color: #5c00e6;
+}
+
+/* Farbs Style Section */
+.christinafarbs-advice {
+  background-color: inherit;
+
+}
+.christinafarbs-advice h1, h4 {
+  background-color: #003399;
+  color: #ffffff;
+
+}
+.christinafarbs-advice section, footer{
+  background-color: inherit;
 }
